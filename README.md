@@ -1,5 +1,5 @@
 # 6.832 (Underactuated Robotics) Final Project
-- http://ethanweber.me/cube.html
+- Paper and media here: http://ethanweber.me/cube.html
 
 # Prereqs
 
