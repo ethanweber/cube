@@ -11,18 +11,18 @@ Install Meshcat
 # Working Notebooks
 
 Swing up and MPC
-- SwingUpAndStabilize
+- SwingUpAndStabilize.ipynb
 
 Limit Cycle
-- LimitCycle
+- LimitCycle.ipynb
 
 # In Progress
 
 Testing in Higher Dimensions
-- Dimensions
+- Dimensions.ipynb
 
 M-Blocks Goal Example
-- MBlockExample
+- MBlockExample.ipynb
 
 
 # Media and paper
